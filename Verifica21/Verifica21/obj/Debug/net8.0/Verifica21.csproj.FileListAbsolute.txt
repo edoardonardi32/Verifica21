@@ -1,0 +1,14 @@
+C:\Users\nardi.edoardo\Desktop\Verifica21\Verifica21\Verifica21\bin\Debug\net8.0\Verifica21.exe
+C:\Users\nardi.edoardo\Desktop\Verifica21\Verifica21\Verifica21\bin\Debug\net8.0\Verifica21.deps.json
+C:\Users\nardi.edoardo\Desktop\Verifica21\Verifica21\Verifica21\bin\Debug\net8.0\Verifica21.runtimeconfig.json
+C:\Users\nardi.edoardo\Desktop\Verifica21\Verifica21\Verifica21\bin\Debug\net8.0\Verifica21.dll
+C:\Users\nardi.edoardo\Desktop\Verifica21\Verifica21\Verifica21\bin\Debug\net8.0\Verifica21.pdb
+C:\Users\nardi.edoardo\Desktop\Verifica21\Verifica21\Verifica21\obj\Debug\net8.0\Verifica21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nardi.edoardo\Desktop\Verifica21\Verifica21\Verifica21\obj\Debug\net8.0\Verifica21.AssemblyInfoInputs.cache
+C:\Users\nardi.edoardo\Desktop\Verifica21\Verifica21\Verifica21\obj\Debug\net8.0\Verifica21.AssemblyInfo.cs
+C:\Users\nardi.edoardo\Desktop\Verifica21\Verifica21\Verifica21\obj\Debug\net8.0\Verifica21.csproj.CoreCompileInputs.cache
+C:\Users\nardi.edoardo\Desktop\Verifica21\Verifica21\Verifica21\obj\Debug\net8.0\Verifica21.dll
+C:\Users\nardi.edoardo\Desktop\Verifica21\Verifica21\Verifica21\obj\Debug\net8.0\refint\Verifica21.dll
+C:\Users\nardi.edoardo\Desktop\Verifica21\Verifica21\Verifica21\obj\Debug\net8.0\Verifica21.pdb
+C:\Users\nardi.edoardo\Desktop\Verifica21\Verifica21\Verifica21\obj\Debug\net8.0\Verifica21.genruntimeconfig.cache
+C:\Users\nardi.edoardo\Desktop\Verifica21\Verifica21\Verifica21\obj\Debug\net8.0\ref\Verifica21.dll
